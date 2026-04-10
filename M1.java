@@ -31,7 +31,7 @@ public class M1 {
             {
                 System.out.print(C[i][j]+"\t");
             }
-            System.out.println("");
+            System.out.println("");//
         }
     }
 }
