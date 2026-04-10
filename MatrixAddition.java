@@ -21,7 +21,7 @@ public class MatrixAddition {
         for (int i = 0; i < 2; i++) {
             for (int j = 0; j < 2; j++) {
                 B[i][j] = sc.nextInt();
-            }//
+            }
         }
 
         // Addition
